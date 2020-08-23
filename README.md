@@ -1,6 +1,6 @@
 # Graphs for Scrum and Agile Concepts
 
-I am presenting the book *Scrum Fundamentals: A Beginner's Guide to Mastery of The Scrum Project Management Methodology* ([Amazon link](https://www.amazon.com/Scrum-Fundamentals-Beginners-Management-Methodology-ebook/dp/B07QN85Z4C)) at the Archilife Book Club ([English website](https://en.archilife.org/)) on August 22, 2020.
+I presented the book *Scrum Fundamentals: A Beginner's Guide to Mastery of The Scrum Project Management Methodology* ([Amazon link](https://www.amazon.com/Scrum-Fundamentals-Beginners-Management-Methodology-ebook/dp/B07QN85Z4C)) at the Archilife Book Club ([English website](https://en.archilife.org/)) on August 22, 2020.
 
 Due to Archilife's copyright rules, I have to create the whole content by myself, and I cannot directly reuse other people's images without their written permission. Therefore, I created a hand-sketch of the minimum viable product concept. I also wrote `R` code to generate images of the Sprint burndown chart and project timeline evaluations.
 
